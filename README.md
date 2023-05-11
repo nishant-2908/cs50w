@@ -3,7 +3,7 @@ The repository contains solution to the projects given in the CS50: Web Programm
 
 # CS50- Web Programming with Python and JavaScript
 ## Projects
-0. **Project 0**: Search - A Google Search replication
+0. **Project 0: [Search](https://github.com/nishant-2908/cs50web/tree/main/search)** - A Google Search replication
 1. **Project 1**: Wiki - A Wikipedia-like online encyclopedia
 2. **Project 2**: Commerce - An eBay-like e-commerce auction site
 3. **Project 3**: Mail - A web application for sending and receiving emails
